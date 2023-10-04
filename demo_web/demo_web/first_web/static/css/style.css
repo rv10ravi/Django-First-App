@@ -1,0 +1,16 @@
+body {
+  /* padding-top: 50px !important; */
+  background:antiquewhite;
+}
+
+.form-signup {
+  margin: 0 auto;
+  max-width: 400px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.form-signup h2 {
+  text-align: center;
+}
